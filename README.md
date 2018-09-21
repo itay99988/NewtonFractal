@@ -28,5 +28,5 @@ The code consists of four main classes:
 * **ComplexNumber** - represents anything which has to do with complex number in the project.
 * **ImageLib** - takes care of translating the generated pixels to an actual image.
 
-## Credtids
+## Credits
 * [Itay Cohen](https://github.com/itay99988)
